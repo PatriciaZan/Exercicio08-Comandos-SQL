@@ -22,6 +22,7 @@ A instalação pode ser feita por meio do [site oficial](https://www.postgresql.
 Os comandos podem ser executados dentro do Query do pgAdmin instalado junto ao PostgressSQL.
 
 ## Exercicios e resoluções
+Github pode estar quebrando a rota para algumas imagens.(caso elas não apareçam)
 
 1. — Faça uma listagem do cardápio ordenada por nome.
 
